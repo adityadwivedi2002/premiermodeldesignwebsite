@@ -1,6 +1,6 @@
 # premiermodeldesignwebsite
 
-Website live :- https://cvassignmentbyadityadwivedi.netlify.app/
+Website live :- https://adityadwivedi2002.github.io/premiermodeldesignwebsite/
 
 ![UI/UX of Website](./website%20images.png)
 
